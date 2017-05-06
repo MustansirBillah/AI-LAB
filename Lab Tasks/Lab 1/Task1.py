@@ -1,0 +1,5 @@
+print("\t\t\t\t\t\tName: Mustansir Billah")
+print("\t\t\t\t\t\tAge: 21")
+print("\t\t\t\t\t\tFather's Name: Osama Abbasi")
+print("\t\t\t\t\t\tEmail: mustansirbillahasadabbasi@gmail.com")
+print("\t\t\t\t\t\tAddress: Block-5, Gulshan-e-Iqbal")
